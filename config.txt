@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
-prefix= t
-game= !thelp
+token=NTM0Njk4NzIwOTY1Njg5MzQ5.Dx9Yzg.pJzWSbdSuxbO9nSn5PchQsxim00 
+owner=455114929511333910 
+prefix= 1
+game= Gamers-Army
 stayinchannel=true
 songinstatus=true 
